@@ -410,7 +410,7 @@ body {
 }
 
 .expertise-card {
-  padding: var(--gap-lg);
+  padding: var(--gap-lg) var(--gap-md);
   background: linear-gradient(135deg, var(--accent-lighter) 0%, var(--success-light) 100%);
   border: 1px solid var(--border-color);
   border-radius: 12px;
