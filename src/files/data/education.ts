@@ -1,4 +1,4 @@
-import type { SecularEducation, ReligiousEducation } from "../types"
+import type { SecularEducation, ReligiousEducation } from "../../types/types"
 
 
 export const SecularEducationData: SecularEducation[] = [

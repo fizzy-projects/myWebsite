@@ -1,5 +1,5 @@
-import type { SkillTagIndex, Competency } from "../types";
-import { SkillArray } from "../types";
+import type { SkillTagIndex, Competency } from "../../types/types";
+import { SkillArray } from "../../types/types";
 
 type tempCompetency = [skillname:string, SkillTagIndex[]]
 const tempCompetencies: tempCompetency[] = [

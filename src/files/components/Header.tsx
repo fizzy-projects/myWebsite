@@ -1,5 +1,5 @@
 // import type React from "react"
-import type { WebsiteHeaderProps } from "../types"
+import type { WebsiteHeaderProps } from "../../types/types"
 
 export const WebsiteHeader: React.FC<WebsiteHeaderProps> = 
 ({activeTab, onTabChange}) => {

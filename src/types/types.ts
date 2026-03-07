@@ -79,3 +79,8 @@ export interface Competency {
   skill: SkillTag;
   tags: Array<SkillTag>
 }
+
+// declare module "*.png" {
+//   const value: string;
+//   export default value;
+// }

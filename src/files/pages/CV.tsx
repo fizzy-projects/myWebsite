@@ -1,6 +1,6 @@
 import { SecularEducationData,ReligiousEducationData } from "../data/education";
 import { WorkExperienceData } from "../data/workExperience";
-import type { Education, WorkExperience } from "../types";
+import type { Education, WorkExperience } from "../../types/types";
 
 export const CV: React.FC = ()=>{
     const sortEducationFunction = (a:Education,b:Education)=>{

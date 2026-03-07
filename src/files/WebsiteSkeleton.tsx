@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './WebsiteSkeleton.css';
-import type { tabType } from './types';
+import type { tabType } from '../types/types';
 import { WebsiteHeader } from './components/Header';
 import { Footer } from './components/Footer';
 import { Home } from './pages/Home';

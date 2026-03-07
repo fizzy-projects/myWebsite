@@ -1,7 +1,7 @@
 // import type React from "react"
 // import type { WebsiteHeaderProps } from "./typesBlogManager"
 // import { useRef, type RefObject } from "react"
-import type { HomeProps } from "../types";                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+import type { HomeProps } from "../../types/types";                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 
 export const Home: React.FC<HomeProps> = ({onTabChange}) =>
 {

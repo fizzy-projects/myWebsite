@@ -1,4 +1,4 @@
-import type { ReviewPost } from "../types"
+import type { ReviewPost } from "../../types/types"
 import { bookReview } from "../data/bookReviews"
 import { useEffect, useState } from "react";
 

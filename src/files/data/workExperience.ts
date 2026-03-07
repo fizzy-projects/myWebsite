@@ -1,4 +1,4 @@
-import type { WorkExperience } from "../types"
+import type { WorkExperience } from "../../types/types"
 
 export const WorkExperienceData: WorkExperience[] = [
     {

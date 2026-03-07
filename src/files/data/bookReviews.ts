@@ -1,4 +1,4 @@
-import type { ReviewPost } from "../types";
+import type { ReviewPost } from "../../types/types";
 
 export const bookReview: ReviewPost[] = [
     {
